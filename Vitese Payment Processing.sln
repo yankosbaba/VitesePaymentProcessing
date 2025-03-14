@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vitese Payment Processing", "Vitese Payment Processing\Vitese Payment Processing.csproj", "{2854E8ED-4932-4FF5-8605-5FC8AF9856E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vitese Payment Test", "Vitese Payment Test\Vitese Payment Test.csproj", "{325B63BB-3991-4750-8940-51289037441F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2854E8ED-4932-4FF5-8605-5FC8AF9856E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2854E8ED-4932-4FF5-8605-5FC8AF9856E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2854E8ED-4932-4FF5-8605-5FC8AF9856E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2854E8ED-4932-4FF5-8605-5FC8AF9856E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325B63BB-3991-4750-8940-51289037441F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325B63BB-3991-4750-8940-51289037441F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325B63BB-3991-4750-8940-51289037441F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325B63BB-3991-4750-8940-51289037441F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {548C74AB-1AF0-4CAF-99B2-EBA9B71FEB86}
+	EndGlobalSection
+EndGlobal
